@@ -1,0 +1,24 @@
+selector
+
+h1{
+
+.class{
+
+#id{
+
+p.class {
+
+h1 p {
+
+h2 p {
+
+h1 p.class {
+
+h2 p.class {
+
+
+h1.class p {
+
+body button {
+
+
